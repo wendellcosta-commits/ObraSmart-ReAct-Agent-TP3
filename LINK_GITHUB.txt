@@ -1,0 +1,6 @@
+Repositório GitHub — TP3 (Desenvolvimento de Data-Driven Apps com Python)
+Aluno: Wendell Barbosa Costa
+Projeto: ObraSmart — Agente Inteligente ReAct com LangChain, Memória e Ferramentas Externas
+
+Link do Repositório Público:
+https://github.com/wendellcosta-commits/ObraSmart-ReAct-Agent-TP3
